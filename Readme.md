@@ -2,7 +2,7 @@
 
 * Студент: [Олег Лобанов](https://up.htmlacademy.ru/htmlcss/40/user/1333533).
 * Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
-
+* Сайт: [Мой проект Седона](https://oleg4355.github.io/1333533-sedona-40/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
