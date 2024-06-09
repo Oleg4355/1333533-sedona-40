@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Олег Лобанов](https://up.htmlacademy.ru/htmlcss/40/user/1333533).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
 
 ---
 
